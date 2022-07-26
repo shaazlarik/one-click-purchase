@@ -5,7 +5,7 @@
 * Author: Coding Perks
 * Author URI: https://github.com/shaazlarik/one-click-purchase
 * Description: Adding one click purchase feature
-* Version: 1.0.0
+* Version: 1.0.1
 * Licence: GPL2 or Later
 * License URL: http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
 * Text Domain: one-click-purchase
